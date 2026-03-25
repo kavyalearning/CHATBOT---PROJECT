@@ -1,0 +1,20 @@
+hi	hello
+hello	hi there
+how are you	i am fine how about you
+what is your name	my name is chatbot
+who are you	i am an ai chatbot
+what are you doing	i am chatting with you
+where are you from	i am from computer
+bye	goodbye
+thank you	you are welcome
+what is your course	i am learning artificial intelligence
+who created you	i was created by a student
+good morning	good morning have a nice day
+good evening	good evening
+how is the weather	i cannot check weather but i hope it is good
+what can you do	i can answer simple questions
+tell me a joke	why did the computer get cold it forgot to close windows
+are you human	no i am a machine learning model
+what is ai	ai means artificial intelligence
+do you like coding	yes i like coding
+help me	sure how can i help you
